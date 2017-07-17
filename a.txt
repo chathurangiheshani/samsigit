@@ -1,5 +1,11 @@
-This is my quation 
+git This is my quation 
+<<<<<<< HEAD
 1+2+3=1.63899
 
 I have changed again. so to speak.
 
+=======
+1+2+3=6
+
+
+>>>>>>> altbranch
